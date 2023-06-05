@@ -1,4 +1,4 @@
-<img src="magellan-secondary-banner.png" align="center">
+<img src="mirror-selfie.png" align="center">
 
 ## Hi I'm Logan 👋
 <sub><sup>😄 Pronouns: She/Her</sup></sub>
