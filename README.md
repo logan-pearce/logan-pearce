@@ -5,7 +5,7 @@ I am currently a PhD candidate at the University of Arizona & Steward Observator
 I'm from Austin Texas, and before becomming an astronomer I served 5 years as a US Navy officer (with nuclear power speciality) and 6 years as a middle school science teacher.  I have a labrador named Lani.
 
 
-[![www.loganpearcescience.com](vizzy-dome-sunset-websitead)](www.loganpearcescience.com)
+[![www.loganpearcescience.com](vizzy-dome-sunset-websitead.png)](www.loganpearcescience.com)
 
 <!--
 **logan-pearce/logan-pearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
