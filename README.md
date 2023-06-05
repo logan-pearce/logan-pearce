@@ -25,6 +25,11 @@ I'm from Austin Texas, and before becomming an astronomer I served 5 years as a 
   -  <a href="mailto:loganpearce1@arizona.edu">📧 loganpearce1@arizona.edu</a>
   -  <a href='www.loganpearcescience.com'>👩‍💻 www.loganpearcescience.com</a>
   -  <a href="https://orcid.org/0000-0003-3904-7378">📝 ORCid</a>
+  
+  
+  ---
+  
+  <img src="FxLFq49aAAAaLY_.jpeg" width=140, align="center">
 
 <!--
 **logan-pearce/logan-pearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
