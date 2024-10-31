@@ -21,9 +21,8 @@ I'm from Austin Texas, and before becomming an astronomer I served 5 years as a 
  ---
   
  ### Connect:
-  -  <a href="https://twitter.com/loganpearce">🐦 bird website: @loganpearce</a>
-  -  <a href="mailto:loganpearce1@arizona.edu">📧 loganpearce1@arizona.edu</a>
-  -  <a href='www.loganpearcescience.com'>👩‍💻 www.loganpearcescience.com</a>
+  -  <a href="mailto:loganpearce1@arizona.edu">📧 lapearce@umich.edu</a>
+  -  <a href='www.loganpearcescience.com'>👩‍💻 www.loganpearce.com</a>
   -  <a href="https://orcid.org/0000-0003-3904-7378">📝 ORCid</a>
   
   
